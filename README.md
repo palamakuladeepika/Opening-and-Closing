@@ -8,21 +8,19 @@ To implement Opening and Closing using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
-
+Import the necessary packages for implementing the code.
 
 ### Step2:
-<br>
+Create the text that you want to modify using opening and close filter.
 
 ### Step3:
-<br>
+Create the structuring element that you want to use over the image.
 
 ### Step4:
-<br>
+Apply the opening and closing operation for the original image.
 
 ### Step5:
-<br>
-
+Show the results using imshow function from cv2
  
 ## Program:
 
